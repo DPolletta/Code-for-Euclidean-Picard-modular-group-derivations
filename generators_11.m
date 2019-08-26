@@ -1,3 +1,5 @@
+%This script sets up generators for cusp stabilizer Gamma_infty(11)
+
 Tau = cmp11(0,1);  %allocate Tau value
 
 J = [0 0 1; 0 1 0; 1 0 0];  %matrix for Hermitian form
