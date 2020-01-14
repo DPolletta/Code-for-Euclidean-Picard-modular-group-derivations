@@ -22,3 +22,5 @@ convex piece is contained in the extended Cygan ball of interest.
 All of the scripts in this repository are MATLAB scripts.  The use of each script is denoted in comments in the corresponding
 script, with the exception of scripts beginning with depth.  For these scripts, if the script is named depth(n).m, this corresponds to the matrices and lifts corresponding to depth n points in the case d=2.  If the script is named depth(n)_11.m, this corresponds
 to the matrices and lifts corresponding to depth n points in the case d=11.  The scripts depths.m and depths_11.m are the consolidations of the depth scripts in the cases d=2 and d=11 respectively.
+
+Finally, there is a pdf containing a list of O_11-rational points and matrices that could not fit in the original paper.
