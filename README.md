@@ -24,3 +24,9 @@ script, with the exception of scripts beginning with depth.  For these scripts, 
 to the matrices and lifts corresponding to depth n points in the case d=11.  The scripts depths.m and depths_11.m are the consolidations of the depth scripts in the cases d=2 and d=11 respectively.
 
 Finally, there is a pdf containing a list of O_11-rational points and matrices that could not fit in the original paper.
+
+Added 03/10/2021 - cover_d.m generates pictures of Cygan ball coverings of fundamental prisms in horospheres based at infty
+
+                   cover_5_prime.m generates pictures of Cygan ball coverings of fundamental prism based at infty' for d=5 case
+                   
+                   max_u.m finds the maximum height u where two extended Cygan spheres intersect
