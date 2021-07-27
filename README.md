@@ -30,3 +30,9 @@ Added 03/10/2021 - cover_d.m generates pictures of Cygan ball coverings of funda
                    cover_5_prime.m generates pictures of Cygan ball coverings of fundamental prism based at infty' for d=5 case
                    
                    max_u.m finds the maximum height u where two extended Cygan spheres intersect
+                   
+Added 07/27/2021 - text files containing magma-ready presentations that appear in "Presentations for the Euclidean Picard modular groups" paper.
+
+                   simplified_magma_presentation_d_2.txt
+
+                   simplified_magma_presentation_d_11.txt
